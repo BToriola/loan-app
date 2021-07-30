@@ -1,6 +1,5 @@
 {
   "name": "loan-portal",
-  "homepage": "https://github.com/denrelebabs/loan-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
